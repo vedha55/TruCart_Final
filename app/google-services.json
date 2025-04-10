@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457403751697",
+    "project_id": "trucart-fd4d3",
+    "storage_bucket": "trucart-fd4d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457403751697:android:b6dac21b4d60a32df040b0",
+        "android_client_info": {
+          "package_name": "com.example.trucart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMaIatUQe407V9OzoyNAPyzshrQ3twHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
