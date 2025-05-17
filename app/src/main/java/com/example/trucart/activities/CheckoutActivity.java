@@ -161,6 +161,7 @@ public class CheckoutActivity extends AppCompatActivity {
                                 Intent intent = new Intent(CheckoutActivity.this, PaymentActivity.class);
                                 intent.putExtra("orderCode", orderNumber);
                                 startActivity(intent);
+                                finish();
                             }
                         }).show();
                     } else {

@@ -97,7 +97,7 @@
                             android:fontFamily="@font/roboto_bold"
                             android:gravity="right"
                             android:padding="10dp"
-                            android:text="11%"
+                            android:text="0%"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
